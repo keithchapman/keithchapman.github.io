@@ -1,0 +1,23 @@
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+	outline:0;
+}
+html{
+	height: 100%;
+}
+body{
+	margin:0;
+	padding:0;
+	height: 100%;
+}
+img{
+	border:none;
+}
+.page1{
+	height: 100%;
+	background-color: #336699;
+}
